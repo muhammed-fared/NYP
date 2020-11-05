@@ -29,10 +29,6 @@ class MyUtils{
        
        return alan;
     }
-     private static  int Random_NextInt(int min,int max){
-        Random rnd=new Random();
-        return rnd.nextInt((max-min)+1)-min;
-    }
      
     public static  double[] yap(double[] arr){
         
