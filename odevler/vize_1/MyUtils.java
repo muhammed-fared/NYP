@@ -3,7 +3,7 @@ package javaapplication5;
 import java.util.Random;
 import java.math.*;
 
-class MyUtils2{
+class MyUtils{
    
     public static float ucgenCevre(float a,float b,float c){
          return a+b+c;
